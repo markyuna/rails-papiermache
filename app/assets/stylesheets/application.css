@@ -17,6 +17,10 @@
   font-family: "Open Sans", "Helvetica", "sans-serif";
   padding-bottom: 100px;
 }
+
+.carousel-control-prev-icon {
+  color: #262626;
+}
 h1, h2, h3 {
   font-family: "Roboto,sans-serif";
 }
@@ -114,4 +118,3 @@ nav ul li ul li a {
   position: relative;
   display: flex;
  }
-
